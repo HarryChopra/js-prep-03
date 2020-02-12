@@ -40,3 +40,8 @@ jspm_packages
 .node_repl_history
 
 .results.json
+babel.config.js
+package.json
+.eslintrc.json
+.prettierrc
+jest.config.js
