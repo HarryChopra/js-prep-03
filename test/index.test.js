@@ -1,3 +1,4 @@
+// ES6 Imports with JEST resolved
 import * as index from '../index.js';
 
 // console.log(myAnimal());
