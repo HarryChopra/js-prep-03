@@ -1,0 +1,1 @@
+ES6, Babel and Jest Compatible
